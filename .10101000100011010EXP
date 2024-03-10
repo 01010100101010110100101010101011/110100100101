@@ -1,11 +1,12 @@
 [
-{
-name : 'Asep',
-id : 'A000111ID',
-expireDate : '02-05-2024T00:00'
-},
-name : 'Abdul Jahanam',
-id : 'A111000ID',
-expireDate : '19-12-2024T00:00'
-},
+  {
+    "name": "Asep",
+    "id": "A000111ID",
+    "expireDate": "2024-05-02T00:00:00"
+  },
+  {
+    "name": "Abdul Jahanam",
+    "id": "A111000ID",
+    "expireDate": "2024-12-19T00:00:00"
+  }
 ]
